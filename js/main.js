@@ -34,6 +34,7 @@ baseDeDonnee.forEach(film => {
             </p>
             <p>Description: ${film.description}</p>
         </div>
+        <br>
     `;
 
     document.body.innerHTML += filmHTML;
