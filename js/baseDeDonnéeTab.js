@@ -32,7 +32,7 @@ const baseDeDonnee = [
         "Black Panther : Wakanda Forever",
         "Ryan Coogler",
         "162 min",
-        "162 min",
+        "150 min",
         "Après la mort du roi T'Challa alias Black Panther, le Wakanda est en deuil et Ramonda a repris le siège royal avec l'aide de sa fille Shuri, des Dora Milaje, Okoye, Ayo et de M'Baku. Cependant, quand Namor, roi de Talocan, déclare la guerre à la nation, les personnages que nous connaissons vont devoir s'allier à de nouvelles personnes, comme Riri Williams mais aussi à d'anciennes connaissances pour vaincre cette menace."   
     ),
     new Film(
@@ -53,7 +53,7 @@ const baseDeDonnee = [
         "The Whale",
         "Darren Aronofsky",
         "117 min",
-        "117 min",
+        "80 min",
         "Charlie, professeur d'anglais reclus souffrant d'obésité, tente de renouer avec sa fille adolescente pour une ultime chance de rédemption."
     ),
     
